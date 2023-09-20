@@ -10,6 +10,6 @@
 <h2 title="BOO! This is my header...again">My H2 Header</h2>
 
 <p title="This is my paragraph">My paragraph goes here!!!</p>
-<a href="https://www.dot.state.mn.us/minnesotago/index50yearvision.html)https://www.dot.state.mn.us/minnesotago/index50yearvision.html">HERE IS A LINK</a>
+<a href="https://www.dot.state.mn.us/minnesotago/index50yearvision.html">HERE IS A LINK</a>
 </body>
 </html>
