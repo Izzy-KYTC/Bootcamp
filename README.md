@@ -11,6 +11,6 @@
 
 <p title="This is my paragraph">My paragraph goes here!!!</p>
 <a href="https://www.dot.state.mn.us/minnesotago/index50yearvision.html">HERE IS A LINK</a>
-src="https://img.freepik.com/free-vector/abstract-scribble-icons-hand-drawn-doodle-coloring_179234-222.jpg?size=626&ext=jpg"
+src="https://img.freepik.com/free-vector/abstract-scribble-icons-hand-drawn-doodle-coloring_179234-222.jpg"
 </body>
 </html>
