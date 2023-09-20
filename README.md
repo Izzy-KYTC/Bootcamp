@@ -9,6 +9,6 @@
     <h1 title="BOO! This is my header">My H1 Header</h1>
 <h2 title="BOO! This is my header...again">My H2 Header</h2>
 
-<p title="This is my paragraph">Mouse over this paragraph, to display the title attribute as a tooltip.- MAYBE</p>
+<p title="This is my paragraph">My paragraph goes here!!!</p>
 </body>
 </html>
