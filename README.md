@@ -11,6 +11,6 @@
 
 <p title="This is my paragraph">My paragraph goes here!!!</p>
 <a href="https://www.dot.state.mn.us/minnesotago/index50yearvision.html">HERE IS A LINK</a>
-<img src="https://transportation.ky.gov/Education/PublishingImages/Group-75-scholarship2-website2.jpg" width="200" height="100">
+<img src="https://transportation.ky.gov/Education/PublishingImages/Group-75-scholarship2-website2.jpg" alt="75 Anniversary" width="200" height="100">
 </body>
 </html>
